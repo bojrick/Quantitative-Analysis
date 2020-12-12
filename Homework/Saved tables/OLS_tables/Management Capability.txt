@@ -1,0 +1,10 @@
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} & \multicolumn{2}{l}{1m R2(0.008)} & \multicolumn{2}{l}{3m R2(0.007} & \multicolumn{2}{l}{6m R2 0.005} & \multicolumn{2}{l}{9m R2 0.006} & \multicolumn{2}{l}{12m R2 0.004} \\
+{} &         coef &      t &        coef &      t &        coef &      t &        coef &      t &         coef &      t \\
+\midrule
+const  &        0.001 &  0.021 &       0.069 &  0.827 &       0.043 &  0.427 &       0.018 &  0.155 &       -0.003 & -0.023 \\
+exFINg &        0.004 &  0.086 &      -0.072 & -0.928 &      -0.065 & -0.696 &      -0.054 & -0.493 &       -0.055 & -0.496 \\
+CapXg  &       -0.010 & -1.108 &      -0.012 & -0.766 &      -0.015 & -0.775 &      -0.021 & -0.925 &       -0.017 & -0.727 \\
+\bottomrule
+\end{tabular}

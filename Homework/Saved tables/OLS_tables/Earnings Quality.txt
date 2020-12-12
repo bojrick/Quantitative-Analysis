@@ -1,0 +1,10 @@
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} & \multicolumn{2}{l}{1m R2(0.01)} & \multicolumn{2}{l}{3m R2(0.036} & \multicolumn{2}{l}{6m R2 0.022} & \multicolumn{2}{l}{9m R2 0.016} & \multicolumn{2}{l}{12m R2 0.063} \\
+{} &        coef &      t &        coef &      t &        coef &      t &        coef &      t &         coef &      t \\
+\midrule
+const    &      -0.005 & -0.825 &      -0.005 & -0.458 &      -0.030 & -2.348 &      -0.054 & -3.542 &       -0.063 & -4.122 \\
+Accruals &       0.150 &  0.542 &       1.062 &  2.231 &       0.876 &  1.500 &       0.642 &  0.935 &        1.676 &  2.437 \\
+CFOg     &       0.001 &  1.250 &       0.001 &  1.491 &       0.002 &  1.489 &       0.002 &  1.477 &        0.003 &  2.649 \\
+\bottomrule
+\end{tabular}
